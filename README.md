@@ -7,6 +7,15 @@
 
 - 📫 How to reach me, drop an email at **hshekhar499@gmail.com**
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=battleplayer02&show_icons=true" alt="fsiddh">
+</p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=battleplayer02&show_icons=true&locale=en&layout=compact" alt="battleplayer02" /></p>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himansh72203544" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="himansh72203544" height="30" width="40" /></a>
