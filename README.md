@@ -7,11 +7,13 @@
 
 - 📫 How to reach me, drop an email at **hshekhar499@gmail.com**
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=battleplayer02&show_icons=true" alt="fsiddh">
-</p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=battleplayer02&show_icons=true" alt="fsiddh">
+</div>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=battleplayer02&show_icons=true&locale=en&layout=compact" alt="battleplayer02" /></p>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=battleplayer02&show_icons=true&locale=en&layout=compact" alt="battleplayer02" />
+</div>
 
 
 
