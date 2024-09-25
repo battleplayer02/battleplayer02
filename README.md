@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Shekhar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I will love to work on **ReactJS and nextjs etc. also I have a keen intrest in android development as well done various projects in JAVA, and trying out react native.**
+- 🌱 I will love to work on **ReactJS and nextjs etc. also I have a keen interest in android development as well done various projects in JAVA, and trying out react native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/battleplayer02/](https://github.com/battleplayer02/)
 
